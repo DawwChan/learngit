@@ -1,1 +1,2 @@
 Hello, my name is Dawn.
+Hi, this is a newline.
